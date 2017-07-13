@@ -1,0 +1,31 @@
+{
+  "name": "week-seven-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciswalsh/week-seven-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciswalsh/week-seven-project/issues"
+  },
+  "homepage": "https://github.com/franciswalsh/week-seven-project#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.1",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.10.8",
+    "mustache-express": "^1.2.5",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0"
+  }
+}
